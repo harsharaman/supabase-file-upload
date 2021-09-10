@@ -1,0 +1,11 @@
+{
+  "name": "cloudapi_v4",
+  "version": "1.0.0",
+  "description": "Cloud API for File Subsystem for AIoT Pneumatics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mogambo",
+  "license": "ISC"
+}
