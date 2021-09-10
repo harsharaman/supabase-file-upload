@@ -1,0 +1,7 @@
+{
+  "name": "supabaseApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
